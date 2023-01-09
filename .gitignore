@@ -1,0 +1,10 @@
+.idea/
+bin/
+DebugApp/
+libs/ShardsServer.exe
+libs/PluginInterface.dll
+libs/NLua.dll
+obj/
+packages/
+LouPlugin.sln.DotSettings.user
+logs/
